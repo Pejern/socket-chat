@@ -1,4 +1,4 @@
-# 💬 Socket-Chat
+# Socket-Chat
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-339933)](https://nodejs.org/)
@@ -10,7 +10,7 @@
 
 ### Leave a star 🌟
 
-<img src="./public/screenshots/chat-preview.png" alt="Chat Preview" width="100%"/>
+<img src="./public/chat-preview.png" alt="Chat Preview" width="100%"/>
 
 ---
 
