@@ -1,14 +1,14 @@
 # <p align="center">
 
-# &#x20; <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white" />
+# &#x20; <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white" />
 
-# &#x20; <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white" />
+# &#x20; <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white" />
 
-# &#x20; <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge\&logo=socket.io\&logoColor=white" />
+# &#x20; <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square\&logo=socket.io\&logoColor=white" />
 
-# &#x20; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white" />
+# &#x20; <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white" />
 
-# &#x20; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white" />
+# &#x20; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white" />
 
 # </p>
 
@@ -20,7 +20,7 @@
 
 # <p align="center">
 
-# A lightweight and modern real-time chat application built with <strong>Node.js</strong>, <strong>Express</strong>, and <strong>Socket.IO</strong>.
+# A lightweight real-time chat application built with Node.js, Express, and Socket.IO.
 
 # </p>
 
@@ -28,7 +28,13 @@
 
 # <p align="center">
 
-# Multiple users can join chat rooms, send instant messages, and see online activity in real time — no refresh required.
+# &#x20; <a href="https://github.com/Pejern">
+
+# &#x20;   <img src="https://img.shields.io/github/followers/Pejern?style=social" />
+
+# &#x20; </a>
+
+# &#x20; <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
 
 # </p>
 
@@ -38,31 +44,23 @@
 
 # 
 
-# <p align="center">
-
-# &#x20; <a href="https://github.com/Pejern">
-
-# &#x20;   <img src="https://img.shields.io/github/followers/Pejern?label=Follow\&style=social" />
-
-# &#x20; </a>
+# \## ✨ Features
 
 # 
 
-# &#x20; <a href="https://github.com/Pejern">
+# \* Real-time messaging
 
-# &#x20;   <img src="https://img.shields.io/github/stars/Pejern?style=social" />
+# \* Multiple users support
 
-# &#x20; </a>
+# \* Online/offline status updates
 
-# 
+# \* Responsive UI
 
-# &#x20; <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+# \* Socket.IO WebSocket communication
 
-# 
+# \* Lightweight and fast
 
-# &#x20; <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" />
-
-# </p>
+# \* Easy to customize
 
 # 
 
@@ -70,27 +68,21 @@
 
 # 
 
-# \# 🌟 Preview
+# \## 🛠 Tech Stack
 
 # 
 
-# \## 💻 Desktop View
+# | Technology  | Usage                   |
 
-# 
+# | ----------- | ----------------------- |
 
-# <img src="./public/screenshots/chat-desktop.png" alt="Desktop Preview" width="100%" />
+# | Node.js     | Backend runtime         |
 
-# 
+# | Express.js  | Server framework        |
 
-# \---
+# | Socket.IO   | Real-time communication |
 
-# 
-
-# \## 📱 Mobile View
-
-# 
-
-# <img src="./public/screenshots/chat-mobile.png" alt="Mobile Preview" width="100%" />
+# | HTML/CSS/JS | Frontend                |
 
 # 
 
@@ -98,27 +90,11 @@
 
 # 
 
-# \# ✨ Features
+# \## 📸 Preview
 
 # 
 
-# \* 💬 Real-time instant messaging
-
-# \* 👥 Multi-user chat support
-
-# \* 🟢 Online/offline user status
-
-# \* ⚡ Socket.IO powered communication
-
-# \* 📱 Fully responsive design
-
-# \* 🎨 Modern clean UI
-
-# \* 🚀 Lightweight and fast
-
-# \* 🔒 Easy to extend with authentication
-
-# \* 🌐 Deployable anywhere
+# <img src="./public/screenshots/chat-preview.png" alt="Chat Preview" width="100%" />
 
 # 
 
@@ -126,21 +102,43 @@
 
 # 
 
-# \# 🛠 Tech Stack
+# \## 📦 Installation
 
 # 
 
-# | Layer                  | Technology                      |
+# Clone the repository:
 
-# | ---------------------- | ------------------------------- |
+# 
 
-# | Backend                | Node.js + Express               |
+# ```bash
 
-# | Realtime Communication | Socket.IO                       |
+# git clone https://github.com/Pejern/real-time-chat-app.git
 
-# | Frontend               | HTML5, CSS3, Vanilla JavaScript |
+# ```
 
-# | Deployment             | Railway, Render, Heroku         |
+# 
+
+# Navigate to the project:
+
+# 
+
+# ```bash
+
+# cd real-time-chat-app
+
+# ```
+
+# 
+
+# Install dependencies:
+
+# 
+
+# ```bash
+
+# npm install
+
+# ```
 
 # 
 
@@ -148,25 +146,45 @@
 
 # 
 
-# \# 📂 Project Structure
+# \## 🚀 Run Locally
 
 # 
 
-# ```bash id="1k4nsh"
+# Start the development server:
 
-# chat-app/
+# 
 
-# │
+# ```bash
+
+# npm start
+
+# ```
+
+# 
+
+# Open in browser:
+
+# 
+
+# ```bash
+
+# http://localhost:3000
+
+# ```
+
+# 
+
+# \---
+
+# 
+
+# \## 📁 Project Structure
+
+# 
+
+# ```bash
 
 # ├── public/
-
-# │   ├── css/
-
-# │   ├── js/
-
-# │   └── screenshots/
-
-# │
 
 # ├── server.js
 
@@ -182,87 +200,11 @@
 
 # 
 
-# \# 📦 Installation
+# \## 🌐 Deployment
 
 # 
 
-# \## Clone Repository
-
-# 
-
-# ```bash id="jmr4oz"
-
-# git clone https://github.com/Pejern/real-time-chat-app.git
-
-# ```
-
-# 
-
-# \## Navigate Into Project
-
-# 
-
-# ```bash id="y4l35x"
-
-# cd real-time-chat-app
-
-# ```
-
-# 
-
-# \## Install Dependencies
-
-# 
-
-# ```bash id="4quh5i"
-
-# npm install
-
-# ```
-
-# 
-
-# \---
-
-# 
-
-# \# 🚀 Run Locally
-
-# 
-
-# Start the development server:
-
-# 
-
-# ```bash id="h0cmkk"
-
-# npm start
-
-# ```
-
-# 
-
-# Open your browser:
-
-# 
-
-# ```bash id="e8q7a8"
-
-# http://localhost:3000
-
-# ```
-
-# 
-
-# \---
-
-# 
-
-# \# 🌐 Deployment
-
-# 
-
-# You can deploy this project easily on:
+# You can deploy this project on:
 
 # 
 
@@ -282,49 +224,21 @@
 
 # 
 
-# \# 🔧 Future Improvements
+# \## 🔮 Future Improvements
 
 # 
 
-# \* ✅ Authentication system
+# \* Authentication system
 
-# \* ✅ Private messaging
+# \* Private messaging
 
-# \* ✅ Typing indicators
+# \* Chat rooms
 
-# \* ✅ File sharing
+# \* Typing indicators
 
-# \* ✅ Chat rooms
+# \* MongoDB message persistence
 
-# \* ✅ Message persistence with MongoDB
-
-# \* ✅ Emojis \& reactions
-
-# 
-
-# \---
-
-# 
-
-# \# 👨‍💻 Author
-
-# 
-
-# \# Shani Khandhar
-
-# 
-
-# Full-stack developer passionate about:
-
-# 
-
-# \* Real-time systems
-
-# \* AI-powered applications
-
-# \* Modern web development
-
-# \* Open-source software
+# \* File sharing support
 
 # 
 
@@ -332,23 +246,17 @@
 
 # 
 
-# \## 🌐 Portfolio
+# \## 👨‍💻 Author
 
 # 
 
-# https://skportfoliosite.pages.dev/
+# \*\*Shani Khandhar\*\*
 
 # 
 
-# \---
+# \* Portfolio: https://skportfoliosite.pages.dev/
 
-# 
-
-# \## 💻 GitHub
-
-# 
-
-# https://github.com/Pejern
+# \* GitHub: https://github.com/Pejern
 
 # 
 
@@ -356,23 +264,11 @@
 
 # 
 
-# \# 🤝 Contributing
+# \## 🤝 Contributing
 
 # 
 
-# Contributions are welcome!
-
-# 
-
-# 1\. Fork the repository
-
-# 2\. Create your feature branch
-
-# 3\. Commit changes
-
-# 4\. Push to your branch
-
-# 5\. Open a Pull Request
+# Pull requests are welcome. Feel free to fork this repository and improve the project.
 
 # 
 
@@ -380,65 +276,11 @@
 
 # 
 
-# \# 📄 License
+# \## 📄 License
 
 # 
 
 # This project is licensed under the MIT License.
-
-# 
-
-# \---
-
-# 
-
-# \# ⭐ Support
-
-# 
-
-# If you found this project useful:
-
-# 
-
-# \* ⭐ Star the repository
-
-# \* 🍴 Fork the project
-
-# \* 🛠 Contribute improvements
-
-# \* 📢 Share it with others
-
-# 
-
-# \---
-
-# 
-
-# \# 🙏 Acknowledgements
-
-# 
-
-# Special thanks to:
-
-# 
-
-# \* Socket.IO team
-
-# \* Node.js community
-
-# \* Open-source contributors ❤️
-
-# 
-
-# \---
-
-# 
-
-# <p align="center">
-
-# Built with ❤️ by <strong>Shani Khandhar</strong>
-
-# </p>
 
 
 
